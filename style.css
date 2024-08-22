@@ -1,0 +1,32 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 10px;
+  background-image:url(images/img.jpg);
+  background-size: cover;
+  background-position: center;
+
+  font-weight: 100;
+}
+button{
+  margin: 10px;
+  padding: 10px;
+  font-size: 40px;
+  font-weight: bold;
+}
+input{
+  width: 90%;
+  height: 90%;
+  background: transparent;
+  border: none;
+  outline: none;
+  border: 2px solid rgba(255, 255, 255, 0.2);
+  border-radius: 40px;
+  color: white;
+  padding: 30px 45px 30px 30px;
+}
+label{
+  margin: 10px;
+  padding: 10px;
+  font-size: 25px;
+  font-weight: bold;
+}
